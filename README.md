@@ -6,7 +6,7 @@ Stores full papers of mathematical modeling and business competitions, quantitat
 2. 全国数模国赛：GAM、XGBoost、Kmeans聚类代码+40页完整论文（上海一等奖）
 3. 清华今经乐道商赛：DSGE宏观金融分阶段模型代码与3000字研究文稿
 4. 北大光华案例大赛：小鹏汽车全球化英文分析报告、蒙特卡洛财务测算框架
-5. 市场调研项目：结构方程、多元回归用户消费分析模型
+5. 正大杯市场调研项目：结构方程、多元回归用户消费分析模型
 
 ## 工具
 Python、MATLAB、SPSS、Excel量化测算
